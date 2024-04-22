@@ -1,0 +1,6 @@
+**Pro User Rate Limit Issues**
+
+If you subscribe to the Pro tier of Cody and are getting issues with rate limits (Where Cody is saying you have used all your chat messages, commands or autocompletions for the day), please click the link forum link and follow the steps given.
+
+[Pro User Rate Limit Issues: Report Them Here](https://community.sourcegraph.com/t/pro-user-rate-limit-issues-report-them-here/45)
+

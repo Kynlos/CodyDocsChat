@@ -1,0 +1,11 @@
+**Learn about all the core concepts and fundamentals that helps Cody provide codebase-aware answers.**
+
+
+[Context](https://sourcegraph.com/docs/cody/core-concepts/context)
+Understand how context helps Cody write more accurate code.
+
+[Keyword Search](https://sourcegraph.com/docs/cody/core-concepts/keyword-search)
+Learn how Cody makes use to Keyword Search to gather context.
+
+[Cody Gateway](https://sourcegraph.com/docs/cody/core-concepts/cody-gateway)
+Learn how Cody Gateway powers the default Sourcegraph provider for completions to facilitate Cody features.
