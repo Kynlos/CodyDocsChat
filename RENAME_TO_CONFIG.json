@@ -1,13 +1,13 @@
 {
-  "token": "MTIzMDk4Mzk0MzQ4NzIzMDExMw.GzVgo-.wg836Gk0oTttxc-8Pok8FgKsjzt500qCyKujw4",
-  "openrouter_api_key": "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",
+  "token": "DISCORD_TOKEN",
+  "openrouter_api_key": "KEY",
   "generation_config": {
     "max_output_tokens": 8192,
     "temperature": 1,
     "top_p": 0.95
   },
   "vertexai_config": {
-    "project": "white-resolver-213323",
+    "project": "PROJECT",
     "location": "us-central1",
     "model": "gemini-1.5-pro-preview-0409"
   }
